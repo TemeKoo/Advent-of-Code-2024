@@ -11,3 +11,5 @@ My solutions to [Advent of Code 2024](https://adventofcode.com/2024) using Haske
   - [x] [Part 1](2/CountSafe.hs)
   - [x] [Part 2](2/CountSafeDampened.hs)
 - [ ] Day 3
+  - [x] [Part 1](3/AddMuls.hs)
+  - [ ] Part 2
