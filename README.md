@@ -7,6 +7,7 @@ My solutions to [Advent of Code 2024](https://adventofcode.com/2024) using Haske
 - [x] Day 1
   - [x] [Part 1](1/ListDistance.hs)
   - [x] [Part 2](1/ListSimilarity.hs)
-- [ ] Day 2
+- [x] Day 2
   - [x] [Part 1](2/CountSafe.hs)
-  - [ ] Part 2
+  - [x] [Part 2](2/CountSafeDampened.hs)
+- [ ] Day 3
