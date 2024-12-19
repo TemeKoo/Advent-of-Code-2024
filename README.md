@@ -14,3 +14,5 @@ My solutions to [Advent of Code 2024](https://adventofcode.com/2024) using Haske
   - [x] [Part 1](3/AddMuls.hs)
   - [x] [Part 2](3/AddMulsConditional.hs)
 - [ ] Day 4
+  - [x] [Part 1](4/WordSearch.hs)
+  - [ ] Part 2
